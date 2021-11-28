@@ -4,6 +4,7 @@ This is just a simple blog for me to get my mind organised and offloaded for the
 
 
 ```
+(leaving the content here for a reference)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brahmasky/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
