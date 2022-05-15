@@ -1,5 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
-# theme: minima
+# remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-minimal
 title: Paco's Atomic Cloud
 description: A simple blog to dump something atomic and fun for the cloud thingy I have done/am doing/will do.
 author: 
@@ -8,6 +8,7 @@ author:
   twitter_username: brahmasky
   github_username:  brahmasky
 show_excerpts: true # set to false to remove excerpts on the homepage
+logo: /assets/img/wukong.png
 
 plugins:
   - jekyll-paginate
