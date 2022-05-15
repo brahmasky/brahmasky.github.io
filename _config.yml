@@ -1,6 +1,5 @@
-# remote_theme: pages-themes/architect@v0.2.0
-
-theme: minima
+remote_theme: pages-themes/architect@v0.2.0
+# theme: minima
 title: Paco's Atomic Cloud
 description: A simple blog to dump something atomic and fun for the cloud thingy I have done/am doing/will do.
 author: brahmasky
