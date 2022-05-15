@@ -1,6 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 theme: jekyll-theme-dinky
 title: Paco's Atomic Cloud
 description: A simple blog to dump something atomic and fun for the cloud thingy I have done/am doing/will do.
@@ -9,3 +8,8 @@ email: paco.luo@gmail.com
 twitter_username: brahmasky
 github_username:  brahmasky
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-include-cache
