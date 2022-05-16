@@ -5,7 +5,7 @@ title: Paco's Atomic Cloud
 description: A simple blog to dump something atomic and fun for the cloud thingy I have done/am doing/will do.
 author: 
   name: 'Paco Luo'
-  email: paco.luo@gmail.com
+  # email: 
   twitter_username: brahmasky
   github_username:  brahmasky
 show_excerpts: true # set to false to remove excerpts on the homepage

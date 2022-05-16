@@ -1,1 +1,7 @@
-This is a simple blog for me to get my mind organised and offloaded for the atomic cloud thingy I have done/am doing/will do.
+
+---
+title: Welcome to Paco's Atomic Cloud
+---
+
+A simple blog for myself to organise my mind and offload some cloud thingy I have done/am doing/will do :D
+
