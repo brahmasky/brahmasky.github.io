@@ -9,7 +9,7 @@ author:
   twitter_username: brahmasky
   github_username:  brahmasky
 show_excerpts: true # set to false to remove excerpts on the homepage
-logo: /assets/img/wukong.png
+logo: /assets/img/wukong-01.png
 
 plugins:
   - jekyll-paginate
