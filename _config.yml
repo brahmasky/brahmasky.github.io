@@ -15,6 +15,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jemoji
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
 theme: jekyll-theme-minimal
